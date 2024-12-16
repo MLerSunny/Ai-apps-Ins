@@ -1,0 +1,20 @@
+# core dependencies
+torch
+torchvision
+numpy
+opencv-python
+pillow
+
+# Web Framework
+fastapi
+uvicorn
+
+#Frontend for Demo
+streamlit
+requests
+
+#Evaluation Metrics
+scikit-learn
+
+# Model Deployment
+python-dotenv

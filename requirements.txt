@@ -1,7 +1,0 @@
-torch
-torchvision
-fastapi
-uvicorn
-streamlit
-opencv-python
-pillow
